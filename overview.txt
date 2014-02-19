@@ -1,0 +1,24 @@
+Routines written while counting galaxies. All routines may be
+downloaded from <a href="ajs.tar.gz">ajs.tar.gz</a>. Questions,
+comments, etc - send them this way: <a href="mailto:A.J.Smith at
+sussex.ac.uk">A.J.Smith at sussex.ac.uk</a> (replace "at" with @
+symbol).
+
+<p>Requirements. Some routines require you to have other routines
+installed. In my IDL path I have
+<ul>
+<li><a href="http://idlastro.gsfc.nasa.gov/">The IDL Astronomy User's Library</a>
+<li><a href="http://www.dfanning.com/documents/programs.html">Coyote Program Library (David Fanning)</a>
+<li><a href="http://spectro.princeton.edu/idlspec2d_install.html">IDLUTILS</a>
+<li><a href="http://astro.physics.nyu.edu/blanton/kcorrect/">kcorrect</a>
+<li><a href="http://www.slac.stanford.edu/grp/ek/research/idl/idl.htm">The IDL Group K User's Library</a>
+<li>One or two things from <a href="http://michaelgalloy.com/">Michael Galloy</a>
+<li>One or two things from <a href="http://turtle.as.arizona.edu/jdsmith/scraps.php">JD Smith</a>
+<li><a href="http://www.gumley.com/PIP/About_Book.html">Sample programs from Practical IDL Programming by Liam E. Gumley</a>
+<li>And probably a few other routines.
+</ul>
+
+<p><a href="http://astronomy.sussex.ac.uk/~anthonys/" target="_top">Return to Anthony's homepage...</a>
+
+@dir gals Routines for dealing with galaxies, luminosity functions, etc.
+@dir misc Miscellaneous routines
