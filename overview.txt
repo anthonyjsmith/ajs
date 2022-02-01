@@ -16,7 +16,7 @@ installed. In my IDL path I have
 <li>And probably a few other routines.
 </ul>
 
-<p><a href="http://www.anthonysmith.me.uk/" target="_top">Return to Anthony's homepage...</a>
+<p><a href="https://www.anthonysmith.me.uk/" target="_top">Return to Anthony's homepage...</a>
 
 @dir gals Routines for dealing with galaxies, luminosity functions, etc.
 @dir misc Miscellaneous routines
